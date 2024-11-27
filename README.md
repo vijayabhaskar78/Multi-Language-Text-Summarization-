@@ -4,16 +4,8 @@ This project provides a text summarization service using both extractive and abs
 
 Features
 
-Multi-Language Support:
-
-Supports summarization in English, Spanish, and French.
-Extractive Summarization:
-
-Extracts key sentences directly from the input text to create a summary.
-Abstractive Summarization:
-
-Generates new sentences based on the input text, creating a more natural and concise summary.
-Flask API:
-
-Exposes a simple API for easy integration with other applications or services.
+Multi-Language Support: Supports summarization in English, Spanish, and French.
+Extractive Summarization: Extracts key sentences directly from the input text to create a summary.
+Abstractive Summarization: Generates new sentences based on the input text, creating a more natural and concise summary.
+Flask API: Exposes a simple API for easy integration with other applications or services.
 
