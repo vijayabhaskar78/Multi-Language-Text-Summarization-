@@ -4,7 +4,7 @@ This project provides a text summarization service using both extractive and abs
 
 Features
 
-*Multi-language support (English, Spanish, French)
+**Multi-language support (English, Spanish, French)
 Extractive Summarization (extracts key sentences)
 Abstractive Summarization (generates new summaries)
 Flask API for easy integration with other applications
